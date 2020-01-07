@@ -1,0 +1,6 @@
+* *minidemos* 
+*minidemos* is a repository with minimal usages of features/libraries/languages for demonstration purposes.
+
+Contents:
+ - =alsa-audio= :: Playback of PCM thorugh Linux ALSA API interface
+
