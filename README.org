@@ -1,6 +1,10 @@
 * *minidemos* 
 *minidemos* is a repository with minimal usages of features/libraries/languages for demonstration purposes.
 
-Contents:
+** Contents
  - =alsa-audio= :: Playback of PCM thorugh Linux ALSA API interface
+
+** Usage
+Unless otherwise specified just build and run with ~make && ./main~
+You could need to install specific dependencies. However I would try to mantain the code to the simplest possible form.
 
